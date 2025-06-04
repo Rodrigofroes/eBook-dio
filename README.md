@@ -24,6 +24,6 @@ Este projeto consiste na criação de um mini eBook com título, conteúdo, capa
 
 ---
 
-[📥 Baixar eBook em PDF](./Ebook_SpringBoot.pdf)
+[📥 Baixar eBook em PDF](./ebook.pdf)
 
 > Projeto gerado com fins educativos e demonstrativos de uso de IA para criação de conteúdo técnico.
