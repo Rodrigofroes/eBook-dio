@@ -1,3 +1,8 @@
+
+(./ChatGPT Image 4 de jun. de 2025, 09_50_56.png)
+
+---
+
 # 📘 Spring Boot: A Revolução Moderna do Java
 
 Este projeto consiste na criação de um mini eBook com título, conteúdo, capa e apresentação visual, utilizando ferramentas de inteligência artificial e design para fins educacionais e de estudo.
@@ -18,5 +23,7 @@ Este projeto consiste na criação de um mini eBook com título, conteúdo, capa
 | **Capa**     | "Seguindo esse título, gostaria de criar uma capa para esse ebook trazendo nessa capa algo que possa despertar o interesse no leitor" |
 
 ---
+
+[📥 Baixar eBook em PDF](./Ebook_SpringBoot.pdf)
 
 > Projeto gerado com fins educativos e demonstrativos de uso de IA para criação de conteúdo técnico.
