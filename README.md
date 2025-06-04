@@ -1,5 +1,5 @@
 
-(./ChatGPT Image 4 de jun. de 2025, 09_50_56.png)
+![Capa do eBook Spring Boot](./capa-ebook-springboot.png)
 
 ---
 
